@@ -1,0 +1,219 @@
+
+@font-face {
+    font-family: 'JustAnotherHand';
+    font-style: normal;
+    font-weight: 400;
+    src: local('JustAnotherHand'), local('JustAnotherHand'), url(../ui/fonts/Just_Another_Hand/JustAnotherHand-Regular.ttf) format('truetype');
+}
+
+.mazerats.sheet .window-content {
+    padding: 5px;
+    overflow-y: hidden;
+}
+
+/* Sheet Header */
+.mazerats.sheet .sheet-header {
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    flex: 0 0 100px;
+    margin-bottom: 10px;
+}
+
+.mazerats.sheet .profile-img {
+    flex: 0 0 100px;
+    height: 100px;
+    margin-right: 10px;
+}
+
+.mazerats.sheet .header-fields {
+    flex: 1;
+    height: 100px;
+}
+
+.mazerats.sheet .charname {
+    height: 60px;
+    padding: 5px;
+    margin: 0;
+    border-bottom: 0;
+}
+.mazerats.sheet .charname input {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+}
+
+.mazerats.sheet .datafield .resource {
+    height: 40px;
+    display: flex;
+    flex-direction: row;
+}
+.mazerats.sheet .datafield .resource input {
+    width: 95px;
+    height: 28px;
+}
+.mazerats.sheet .datafield .resource span {
+    width: 10px;
+    line-height: 28px;
+    text-align: center;
+}
+.mazerats.sheet .dataentry.active {
+    display: flex;
+    flex-direction: row;
+}
+
+.mazerats.sheet .datafields {
+    display: flex;
+    flex-direction: column;
+    overflow-y: scroll;
+    height: 500px;
+}
+
+.mazerats.sheet .datafield {
+    height: 40px;
+    width: 100%;
+    padding: 3px 10px;
+    display: flex;
+    flex-direction: row;
+}
+
+.mazerats.sheet .datafield div.label {
+    width: 100px;
+    height: 28px;
+}
+
+.mazerats.sheet .datafield input {
+    width: 200px;
+    height: 28px;
+}
+
+
+
+/* Navigation Tabs */
+.mazerats.sheet .tabs {
+    flex: 0 0 40px;
+    border-top: 1px solid #AAA;
+    border-bottom: 1px solid #AAA;
+}
+
+.mazerats.sheet .tabs .item {
+    line-height: 40px;
+    font-weight: bold;
+}
+
+.mazerats.sheet .tabs .item.active {
+    text-decoration: underline;
+    text-shadow: none;
+}
+
+/* Content Tabs */
+.mazerats.sheet .sheet-body {
+    height: calc(100% - 160px);
+}
+.mazerats.sheet .sheet-body .tab {
+    height: 100%;
+}
+.mazerats.sheet .sheet-body .editor {
+    width: 100%;
+    height: 100%;
+}
+
+
+/* Items */
+.mazerats.sheet .items-list {
+    list-style: none;
+    margin: 7px 0;
+    padding: 0;
+    overflow-y: auto;
+}
+
+.mazerats.sheet .item-collections {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+.mazerats.sheet .item-group.backpack{
+    border: 1px solid #BBB;
+}
+
+.mazerats.sheet .item-group.worn{
+    border: 1px solid #BBB;
+}
+
+.mazerats.sheet .item-group.belt{
+    border: 1px solid #BBB;
+}
+
+.mazerats.sheet .item-group.hands{
+    border: 1px solid #BBB;
+}
+
+.mazerats.sheet .items-list .item {
+    height: 30px;
+    line-height: 24px;
+    padding: 3px 0;
+    border-bottom: 1px solid #BBB;
+}
+.mazerats.sheet .items-list .item img {
+    flex: 0 0 24px;
+    margin-right: 5px;
+}
+.mazerats.sheet .items-list .item-name {
+    margin: 0;
+}
+.mazerats.sheet .items-list .item-controls {
+    flex: 0 0 100px;
+}
+
+/* Attributes */
+.mazerats.sheet .attributes-header { 
+    padding: 5px;
+    margin: 5px 0;
+    background: rgba(0, 0, 0, 0.05);
+    border: 1px solid #AAA;
+    border-radius: 2px;
+    text-align: center;
+    font-weight: bold;
+}
+.mazerats.sheet .attribute-label { 
+    flex: 1.5;
+}
+.mazerats.sheet .attribute-control { 
+    flex: 0 0 20px;
+}
+
+.mazerats.sheet .attributes-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.mazerats.sheet .attributes-list li > * {
+    margin: 0 3px;
+    height: 28px;
+    line-height: 24px;
+    background: transparent;
+    border: none;
+    border-radius: 0;
+    border-bottom: 1px solid #AAA;
+}
+
+.mazerats.sheet .attribute-value.checkbox {
+    text-align: center;
+}
+
+.mazerats.sheet .attributes-list li a.attribute-control {
+    border: none;
+}
+
+#Test
+{
+    position: absolute;
+    visibility: hidden;
+    height: auto;
+    width: auto;
+    white-space: nowrap; /* Thanks to Herb Caudill comment */
+}

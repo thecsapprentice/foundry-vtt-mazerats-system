@@ -1,0 +1,61 @@
+{
+    "Actor": {
+        "types": ["character", "monster"],
+        "templates": {
+            "basic_stats":{
+                "stats": {
+                    "str": 0,
+                    "dex": 0,
+                    "wil": 0,
+                    "att": 0,
+                    "arm": 0,
+                    "hp" : {
+                        "value": 0,
+                        "max": 0,
+                        "min": 0
+                    }
+                }
+            }
+        },
+        "character": {
+            "templates": [ "basic_stats" ],
+            "name": "",
+            "level": 1,
+            "xp": 0,
+            "feature_1": "",
+            "feature_2": "",
+            "feature_3": "",
+            "feature_4": "",
+            "appearance": "",
+            "physicalDetail": "",
+            "background": "",
+            "clothing" : "",
+            "personality": "",
+            "mannerism": "",
+            "hands": [],
+            "belt": [],
+            "worn": [],
+            "backpack": [],
+            "biography": "",
+            "log": ""
+        },
+        "monster":{
+            "templates": [ "basic_stats" ],
+            "name":"",
+            "features":[],
+            "traits":[],
+            "abilities":[],
+            "tactics":[],
+            "personality":[],
+            "weakness":[],
+            "spells":[]
+        }
+    },
+    "Item": {
+        "types": ["item"],
+        "item": {
+            "description": "",
+            "storage": ""
+        }
+    }
+}
