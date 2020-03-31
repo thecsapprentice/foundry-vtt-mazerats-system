@@ -1,0 +1,36 @@
+{"name":"Bear Trap","permission":{"default":0},"type":"item","data":{"description":"","storage":""},"sort":400000,"flags":{},"img":"icons/svg/mystery-man.svg","_id":"0DmoMmDGjwmNs27A"}
+{"name":"Chisel","permission":{"default":0},"type":"item","data":{"description":"","storage":""},"sort":200000,"flags":{},"img":"icons/svg/mystery-man.svg","_id":"1KmTUJ6psowlmYXW"}
+{"name":"Iron tongs","permission":{"default":0},"type":"item","data":{"description":"","storage":""},"sort":1900000,"flags":{},"img":"icons/svg/mystery-man.svg","_id":"30Z4lNLid2OSMP8g"}
+{"name":"Rope (50 ft.)","permission":{"default":0},"type":"item","data":{"description":"","storage":""},"sort":2600000,"flags":{},"img":"icons/svg/mystery-man.svg","_id":"4A4hGiygseZDcTUZ"}
+{"name":"Fishing Net","permission":{"default":0},"type":"item","data":{"description":"","storage":""},"sort":800000,"flags":{},"img":"icons/svg/mystery-man.svg","_id":"66Yz43AziAx8lv7q"}
+{"name":"Torch","permission":{"default":0},"type":"item","data":{"description":"","storage":""},"sort":2700000,"flags":{},"img":"icons/svg/mystery-man.svg","_id":"B3H4tPn80Ev7lkCp"}
+{"name":"Caltrops","permission":{"default":0},"type":"item","data":{"description":"","storage":""},"sort":1000000,"flags":{},"img":"icons/svg/mystery-man.svg","_id":"Dy1f0WQ3QAgFVew7"}
+{"name":"Manacles","permission":{"default":0},"type":"item","data":{"description":"","storage":""},"sort":3100000,"flags":{},"img":"icons/svg/mystery-man.svg","_id":"EPc7CZl1PRFqgLS3"}
+{"name":"Medicine (3)","permission":{"default":0},"type":"item","data":{"description":"","storage":""},"sort":3400000,"flags":{},"img":"icons/svg/mystery-man.svg","_id":"Epiouzyh7vHymrYw"}
+{"name":"Chain (10 ft.)","permission":{"default":0},"type":"item","data":{"description":"","storage":""},"sort":1300000,"flags":{},"img":"icons/svg/mystery-man.svg","_id":"IF44LeV8z8Xo4qlg"}
+{"name":"Rations (3)","permission":{"default":0},"type":"item","data":{"description":"","storage":""},"sort":2300000,"flags":{},"img":"icons/svg/mystery-man.svg","_id":"Lv6flamRsjAJ7RrE"}
+{"name":"Tinderbox","permission":{"default":0},"type":"item","data":{"description":"","storage":""},"sort":2400000,"flags":{},"img":"icons/svg/mystery-man.svg","_id":"NOhtACsjfBbaCqJb"}
+{"name":"Chalk","permission":{"default":0},"type":"item","data":{"description":"","storage":""},"sort":1600000,"flags":{},"img":"icons/svg/mystery-man.svg","_id":"NTqzvpRMh5RC9HiA"}
+{"name":"Shovel","permission":{"default":0},"type":"item","data":{"description":"","storage":""},"sort":3200000,"flags":{},"img":"icons/svg/mystery-man.svg","_id":"On1WTZunwY0CDPFh"}
+{"name":"Lockpicks (3)","permission":{"default":0},"type":"item","data":{"description":"","storage":""},"sort":2800000,"flags":{},"img":"icons/svg/mystery-man.svg","_id":"OqTDiJLiPbFDHZ8c"}
+{"name":"Vial of Poison","permission":{"default":0},"type":"item","data":{"description":"","storage":""},"sort":3300000,"flags":{},"img":"icons/svg/mystery-man.svg","_id":"SCBHY62dSVDXDjoM"}
+{"name":"Waterskin","permission":{"default":0},"type":"item","data":{"description":"","storage":""},"sort":3600000,"flags":{},"img":"icons/svg/mystery-man.svg","_id":"TNbrnaH9iDXLI6Au"}
+{"name":"Grappling Hook","permission":{"default":0},"type":"item","data":{"description":"","storage":""},"sort":1700000,"flags":{},"img":"icons/svg/mystery-man.svg","_id":"Ut5IlvCzT8ZsP0Ya"}
+{"name":"Bedroll","permission":{"default":0},"type":"item","data":{"description":"","storage":""},"sort":700000,"flags":{},"img":"icons/svg/mystery-man.svg","_id":"WWZUAelGlPZ41aa7"}
+{"name":"Iron spikes","permission":{"default":0},"type":"item","data":{"description":"","storage":""},"sort":1800000,"flags":{},"img":"icons/svg/mystery-man.svg","_id":"YR3Uw8cPToGVbCCO"}
+{"name":"Grease","permission":{"default":0},"type":"item","data":{"description":"","storage":""},"sort":300000,"flags":{},"img":"icons/svg/mystery-man.svg","_id":"Yz6zezwLMWWRNPGz"}
+{"name":"Vial of Acid","permission":{"default":0},"type":"item","data":{"description":"","storage":""},"sort":3000000,"flags":{},"img":"icons/svg/mystery-man.svg","_id":"cx5i6XCxLd0v73zA"}
+{"name":"Horn","permission":{"default":0},"type":"item","data":{"description":"","storage":""},"sort":1500000,"flags":{},"img":"icons/svg/mystery-man.svg","_id":"dj4jDBEaa78BgtzD"}
+{"name":"Hammer","permission":{"default":0},"type":"item","data":{"description":"","storage":""},"sort":900000,"flags":{},"img":"icons/svg/mystery-man.svg","_id":"e4SyT8SOyy9tbyHE"}
+{"name":"Glass Marbles","permission":{"default":0},"type":"item","data":{"description":"","storage":""},"sort":1100000,"flags":{},"img":"icons/svg/mystery-man.svg","_id":"ebt9ZFwYF9NswguD"}
+{"name":"Hand drill","permission":{"default":0},"type":"item","data":{"description":"","storage":""},"sort":1200000,"flags":{},"img":"icons/svg/mystery-man.svg","_id":"ewXMGWXFy5KZvLsy"}
+{"name":"Steel mirror","permission":{"default":0},"type":"item","data":{"description":"","storage":""},"sort":3500000,"flags":{},"img":"icons/svg/mystery-man.svg","_id":"g4i1Nuv0azHvYkPS"}
+{"name":"Crowbar","permission":{"default":0},"type":"item","data":{"description":"","storage":""},"sort":500000,"flags":{},"img":"icons/svg/mystery-man.svg","_id":"gr8VRT5Ruv2S8gtd"}
+{"name":"Lantern and Oil","permission":{"default":0},"type":"item","data":{"description":"","storage":""},"sort":2200000,"flags":{},"img":"icons/svg/mystery-man.svg","_id":"iJmSqCZ8kv7G4zxc"}
+{"name":"Ten Foot Pole","permission":{"default":0},"type":"item","data":{"description":"","storage":""},"sort":2100000,"flags":{},"img":"icons/svg/mystery-man.svg","_id":"jJFRVof9DC7oJO6K"}
+{"name":"Hacksaw","permission":{"default":0},"type":"item","data":{"description":"","storage":""},"sort":600000,"flags":{},"img":"icons/svg/mystery-man.svg","_id":"lDAWwjUZ9NXunCLT"}
+{"name":"Large Sack","permission":{"default":0},"type":"item","data":{"description":"","storage":""},"sort":2500000,"flags":{},"img":"icons/svg/mystery-man.svg","_id":"q2LQRvQrJTxUmOba"}
+{"name":"Steel wire","permission":{"default":0},"type":"item","data":{"description":"","storage":""},"sort":2900000,"flags":{},"img":"icons/svg/mystery-man.svg","_id":"qP3Qu1aMIqB02gt0"}
+{"name":"Glue","permission":{"default":0},"type":"item","data":{"description":"","storage":""},"sort":1400000,"flags":{},"img":"icons/svg/mystery-man.svg","_id":"rUpAhj6uo2p2RLdj"}
+{"name":"Metal ﬁle","permission":{"default":0},"type":"item","data":{"description":"","storage":""},"sort":2000000,"flags":{},"img":"icons/svg/mystery-man.svg","_id":"s2uz0d7Si2ghG6pV"}
+{"name":"Animal Scent","permission":{"default":0},"type":"item","data":{"description":"","storage":""},"sort":100000,"flags":{},"img":"icons/svg/mystery-man.svg","_id":"ttC6YbG4vm6P87EM"}

@@ -1,0 +1,34 @@
+{"name":"Arming sword","permission":{"default":0},"type":"item","data":{"description":"","storage":""},"sort":100001,"flags":{},"img":"icons/svg/mystery-man.svg","_id":"TWXJv5RbTL99F46t"}
+{"name":"Crossbow","permission":{"default":0},"type":"item","data":{"description":"","storage":""},"sort":100001,"flags":{},"img":"icons/svg/mystery-man.svg","_id":"5Rd79J4miGIzNE7t"}
+{"name":"Halberd","permission":{"default":0},"type":"item","data":{"description":"","storage":""},"sort":100001,"flags":{},"img":"icons/svg/mystery-man.svg","_id":"7imfVnppNJsWdAkY"}
+{"name":"Backsword","permission":{"default":0},"type":"item","data":{"description":"","storage":""},"sort":100001,"flags":{},"img":"icons/svg/mystery-man.svg","_id":"t0fXWIYrKvFkZGUd"}
+{"name":"Cutlass","permission":{"default":0},"type":"item","data":{"description":"","storage":""},"sort":100001,"flags":{},"img":"icons/svg/mystery-man.svg","_id":"Ps4or9IfJ2FJo3RB"}
+{"name":"Hammer","permission":{"default":0},"type":"item","data":{"description":"","storage":""},"sort":100001,"flags":{},"img":"icons/svg/mystery-man.svg","_id":"I6EsAhZnkhBeZYo9"}
+{"name":"Battleaxe","permission":{"default":0},"type":"item","data":{"description":"","storage":""},"sort":100001,"flags":{},"img":"icons/svg/mystery-man.svg","_id":"DRU7BIzp3AtvXiUn"}
+{"name":"Battleaxe","permission":{"default":0},"type":"item","data":{"description":"","storage":""},"sort":100001,"flags":{},"img":"icons/svg/mystery-man.svg","_id":"uEmRpEJbQdKzb0MU"}
+{"name":"Dagger","permission":{"default":0},"type":"item","data":{"description":"","storage":""},"sort":100001,"flags":{},"img":"icons/svg/mystery-man.svg","_id":"4H7IRlIOsPsJttrn"}
+{"name":"Hatchet","permission":{"default":0},"type":"item","data":{"description":"","storage":""},"sort":100001,"flags":{},"img":"icons/svg/mystery-man.svg","_id":"y3aUGDMewfcwWHBU"}
+{"name":"Blowpipe","permission":{"default":0},"type":"item","data":{"description":"","storage":""},"sort":100001,"flags":{},"img":"icons/svg/mystery-man.svg","_id":"oxJfCDYV4zgHYkBi"}
+{"name":"Plail","permission":{"default":0},"type":"item","data":{"description":"","storage":""},"sort":100001,"flags":{},"img":"icons/svg/mystery-man.svg","_id":"VMYpZNejWXRXyn2c"}
+{"name":"Horsebow","permission":{"default":0},"type":"item","data":{"description":"","storage":""},"sort":100001,"flags":{},"img":"icons/svg/mystery-man.svg","_id":"JlCnlUy87tgSnKck"}
+{"name":"Claymore","permission":{"default":0},"type":"item","data":{"description":"","storage":""},"sort":100001,"flags":{},"img":"icons/svg/mystery-man.svg","_id":"y7OWUdRzpmcn1QqV"}
+{"name":"Flanged mace","permission":{"default":0},"type":"item","data":{"description":"","storage":""},"sort":100001,"flags":{},"img":"icons/svg/mystery-man.svg","_id":"SlIuCvs7iN7ZGnEL"}
+{"name":"Hunting knife","permission":{"default":0},"type":"item","data":{"description":"","storage":""},"sort":100001,"flags":{},"img":"icons/svg/mystery-man.svg","_id":"TenGl7F7VTKa5M1H"}
+{"name":"Club","permission":{"default":0},"type":"item","data":{"description":"","storage":""},"sort":100001,"flags":{},"img":"icons/svg/mystery-man.svg","_id":"BYhgbVGNbxwNcZAX"}
+{"name":"Lance","permission":{"default":0},"type":"item","data":{"description":"","storage":""},"sort":100001,"flags":{},"img":"icons/svg/mystery-man.svg","_id":"tNR1YbxWAhiuxxOs"}
+{"name":"Longbow","permission":{"default":0},"type":"item","data":{"description":"","storage":""},"sort":100001,"flags":{},"img":"icons/svg/mystery-man.svg","_id":"bf6YNTXVqhCjAg7x"}
+{"name":"Scimitar","permission":{"default":0},"type":"item","data":{"description":"","storage":""},"sort":100001,"flags":{},"img":"icons/svg/mystery-man.svg","_id":"7WyyC6CiCR6wJX23"}
+{"name":"Stake","permission":{"default":0},"type":"item","data":{"description":"","storage":""},"sort":100001,"flags":{},"img":"icons/svg/mystery-man.svg","_id":"MkwbKCBxzKEMtbky"}
+{"name":"Longsword","permission":{"default":0},"type":"item","data":{"description":"","storage":""},"sort":100001,"flags":{},"img":"icons/svg/mystery-man.svg","_id":"6YkMlaBQBAwDqTFM"}
+{"name":"Stiletto","permission":{"default":0},"type":"item","data":{"description":"","storage":""},"sort":100001,"flags":{},"img":"icons/svg/mystery-man.svg","_id":"5NzKt6XXjCn8KCIW"}
+{"name":"Mace","permission":{"default":0},"type":"item","data":{"description":"","storage":""},"sort":100001,"flags":{},"img":"icons/svg/mystery-man.svg","_id":"8g2kDF209ayY4iqc"}
+{"name":"Sickle","permission":{"default":0},"type":"item","data":{"description":"","storage":""},"sort":100001,"flags":{},"img":"icons/svg/mystery-man.svg","_id":"SXeAWjZ3YErnfkDh"}
+{"name":"Throwing axe","permission":{"default":0},"type":"item","data":{"description":"","storage":""},"sort":100001,"flags":{},"img":"icons/svg/mystery-man.svg","_id":"ghgxEWRcz0aiagvA"}
+{"name":"Maul","permission":{"default":0},"type":"item","data":{"description":"","storage":""},"sort":100001,"flags":{},"img":"icons/svg/mystery-man.svg","_id":"lLJGEEw94VgLrEpw"}
+{"name":"Sling","permission":{"default":0},"type":"item","data":{"description":"","storage":""},"sort":100001,"flags":{},"img":"icons/svg/mystery-man.svg","_id":"lhgsdO139cVlaq84"}
+{"name":"Warhammer","permission":{"default":0},"type":"item","data":{"description":"","storage":""},"sort":100001,"flags":{},"img":"icons/svg/mystery-man.svg","_id":"czl6l27lZH4KHsyx"}
+{"name":"Morningstar","permission":{"default":0},"type":"item","data":{"description":"","storage":""},"sort":100001,"flags":{},"img":"icons/svg/mystery-man.svg","_id":"3k7fH8BSGLEDVUID"}
+{"name":"Spear","permission":{"default":0},"type":"item","data":{"description":"","storage":""},"sort":100001,"flags":{},"img":"icons/svg/mystery-man.svg","_id":"U41jnQFnZspgt3SN"}
+{"name":"Warpick","permission":{"default":0},"type":"item","data":{"description":"","storage":""},"sort":100001,"flags":{},"img":"icons/svg/mystery-man.svg","_id":"53aqrmqOeXnSbWdB"}
+{"name":"Staff","permission":{"default":0},"type":"item","data":{"description":"","storage":""},"sort":100001,"flags":{},"img":"icons/svg/mystery-man.svg","_id":"RpammAYPrnkH5B7y"}
+{"name":"Whip","permission":{"default":0},"type":"item","data":{"description":"","storage":""},"sort":100001,"flags":{},"img":"icons/svg/mystery-man.svg","_id":"CLnN27Y28zRodvzh"}

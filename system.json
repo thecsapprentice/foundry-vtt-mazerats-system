@@ -6,14 +6,64 @@
   "minimumCoreVersion": "0.4.4",
   "compatibleCoreVersion": "0.5.0",
   "templateVersion": 1,
-  "author": "TheCSApprentice",
+  "author": "Nathan Mitchell",
   "esmodules": ["module/simple.js"],
   "scripts":["module/d3plus-text.full.min.js"],
   "styles": ["styles/simple.css"],
-  "packs": [],
+  "packs": [
+      {
+          "name": "miscitems",
+          "label": "Misc. Items",
+          "system": "mazerats",
+          "path": "./packs/miscitems.db",
+          "entity": "Item"
+      },
+      {
+          "name": "potionitems",
+          "label": "Potion Items",
+          "system": "mazerats",
+          "path": "./packs/potionitems.db",
+          "entity": "Item"
+      },
+      {
+          "name": "startingitems",
+          "label": "Starting Items",
+          "system": "mazerats",
+          "path": "./packs/startingitems.db",
+          "entity": "Item"
+      },
+      {
+          "name": "toolitems",
+          "label": "Tool Items",
+          "system": "mazerats",
+          "path": "./packs/toolitems.db",
+          "entity": "Item"
+      },
+      {
+          "name": "treasureitems",
+          "label": "Treasure Items",
+          "system": "mazerats",
+          "path": "./packs/treasureitems.db",
+          "entity": "Item"
+      },
+      {
+          "name": "weaponitems",
+          "label": "Weapon Items",
+          "system": "mazerats",
+          "path": "./packs/weaponitems.db",
+          "entity": "Item"
+      },
+      {
+          "name": "wornitems",
+          "label": "Worn Items",
+          "system": "mazerats",
+          "path": "./packs/wornitems.db",
+          "entity": "Item"
+      }
+  ],
   "languages": [],
   "gridDistance": 5,
   "gridUnits": "ft",
-  "primaryTokenAttribute": "health",
-  "secondaryTokenAttribute": "power"
+  "primaryTokenAttribute": "stats.hp",
+  "secondaryTokenAttribute": ""
 }
